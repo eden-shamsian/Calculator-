@@ -18,4 +18,4 @@ This is a simple calculator application developed in Java using Android Studio. 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/calculator-project.git
+   git clone https://github.com/eden-shamsian/calculator-project.git
